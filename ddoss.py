@@ -8,7 +8,7 @@ import sys
 
 # İskopisix bannerini animasiya ilə göstərmək
 def display_banner():
-    banner_text = "666 ISKOPISIX BOTNET SERVER PRIVATE DDOS SERVER 0100010100010111001001001000101111010"
+    banner_text = "0100010001001001111001001111001010 666 ISKOPISIX BOTNET SERVER PRIVATE DDOS SERVER 0100010100010111001001001000101111010"
 
     os.system("cls" if os.name == "nt" else "clear")  # Terminalı təmizlə
     for char in banner_text:
